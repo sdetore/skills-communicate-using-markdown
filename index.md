@@ -13,6 +13,11 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ## Example 2
 var myVar = "Hello, world!";
 
+# Step 4 Example
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+
 # Make a task List
 - [ ] Turn on GitHub Pages
 - [ ] Outline my portfolio
@@ -20,6 +25,7 @@ var myVar = "Hello, world!";
 
 
 I was learning how to change header font sizes! So exciting !
+
 
 
 
