@@ -13,8 +13,14 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ## Example 2
 var myVar = "Hello, world!";
 
+# Make a task List
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 
 I was learning how to change header font sizes! So exciting !
+
 
 
 
